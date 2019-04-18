@@ -1,0 +1,5 @@
+numpy 
+pandas 
+plotly 
+fbprophet 
+pystan
